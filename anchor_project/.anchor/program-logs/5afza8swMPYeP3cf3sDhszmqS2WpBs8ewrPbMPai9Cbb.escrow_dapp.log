@@ -1,0 +1,97 @@
+Streaming transaction logs mentioning 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb. Confirmed commitment
+Transaction executed in slot 14:
+  Signature: Y3Xnhdz8MfJkZeCCdzT5rjeMsEg7g5h7yS36gptjvgDpaUQdeXUj1sNwNt4Dhz5y6LocAFLh56KbmYzwSix7Uuz
+  Status: Ok
+  Log Messages:
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb invoke [1]
+    Program log: Instruction: Initialize
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 179376 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 170005 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb consumed 35537 of 200000 compute units
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb success
+Transaction executed in slot 15:
+  Signature: 36x7NFNJgrMXoVW2tykp2SxYPPNzFrAZXLCVrnZ8SzGfJ7Wj1VD85HGUJ62c981WiGwvNpHf6PN1qvphz5jmWdDt
+  Status: Ok
+  Log Messages:
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb invoke [1]
+    Program log: Instruction: Cancel
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 185410 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: CloseAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3015 of 178538 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb consumed 25012 of 200000 compute units
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb success
+Transaction executed in slot 24:
+  Signature: 5uTx7vLfRC85tAHhKyEg9Jo419JX22i9CCpyBnc2iCJ9XXQc8J2z8ayhaUdmsEte2TEVErL349SXrvRQbWUAhJ47
+  Status: Ok
+  Log Messages:
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb invoke [1]
+    Program log: Instruction: Initialize
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 174876 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 165505 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb consumed 40037 of 200000 compute units
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb success
+Transaction executed in slot 25:
+  Signature: 2hVJAN4Thnba2VLqQzMGNAAD994YmBZcu8nrstsQcMSVtdU5GdJ1uvzDouyBHC8w4X4cCB9KYFEtM1vBvD6p9fSy
+  Status: Ok
+  Log Messages:
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb invoke [1]
+    Program log: Instruction: Exchange
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 173057 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 166159 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: CloseAccount
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3015 of 159288 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb consumed 44429 of 200000 compute units
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb success
+Transaction executed in slot 30:
+  Signature: 3u9MfobwtZsjawgfh3VbXSvfF4bTpAP7cdJmKHdnFDKgKRnWRweceLhghMRaJSjMqArfDghQuZddgMcNXsTBuGVM
+  Status: Ok
+  Log Messages:
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb invoke [1]
+    Program log: Instruction: Initialize
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 180876 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 171505 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb consumed 34037 of 200000 compute units
+    Program 5afza8swMPYeP3cf3sDhszmqS2WpBs8ewrPbMPai9Cbb success
